@@ -28,8 +28,7 @@ Pandas – CSV and data handling
 Gradio – easy-to-use web interface  
 PIL (Pillow) – image preprocessing
 
-
-Future Improvements : 
+Future Improvements: 
 
 Integrate RAG (Retrieval-Augmented Generation) for context-based tagging.
 
@@ -37,6 +36,8 @@ Use larger custom datasets to fine-tune CLIP for higher accuracy.
 
 Improve batch processing efficiency for large image datasets.
 
+Deploy as a web application on Hugging Face Spaces.
+
 Deploy as a web application on Hugging Face Spaces
-git clone https://github.com/Appu-09/Automated_Media_Tagger.git
 cd Automated_Media_Tagger
+
