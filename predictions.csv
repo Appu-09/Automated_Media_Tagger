@@ -1,0 +1,3 @@
+image_name,predicted_tags
+img1.jpg,"outdoor,indoor,people"
+img2.jpg,"food,indoor,outdoor"
